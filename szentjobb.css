@@ -61,3 +61,37 @@ body {
     background-color: #571807;
     color: #E8D4A1;
 }
+
+.tartalom .bekezdes {
+    font-size: 16px;
+    text-align: justify;
+}
+
+.apatsag {
+    float: right;
+    width: calc(12 * 12px);
+}
+
+.kapolna {
+    float: left;
+    width: calc(12 * 12px);
+}
+
+.vonat {
+    float: right;
+    width: calc(12 * 12px);
+}
+
+.kormenet {
+    float: left;
+    width: calc(12 * 12px);
+}
+
+
+a {
+    color: #E8D4A1;
+}
+
+a:hover {
+    color: cyan;
+}
